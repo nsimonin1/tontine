@@ -1,0 +1,5 @@
+rootProject.name = 'tontine-project'
+include 'tontine-domaine'
+include 'spring-web-app'
+
+
